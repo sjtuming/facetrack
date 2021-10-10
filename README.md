@@ -1,10 +1,3 @@
----
-title: 基于树莓派的自拍神器
-date: 2021-09-24 23:40:55
-tags:
-categories: 硬件折腾
----
-
 <center>基于树莓派的自拍神器</center>
 
 #### 项目：基于树莓派的自拍神器
@@ -25,13 +18,13 @@ categories: 硬件折腾
 
 #### 装配后期部分图片：
 
-![1](/photo/hardware/facetrack1.jpg)
+![1](/facetrack1.jpg)
 
-![1](/photo/hardware/facetrack2.jpg)
+![1](/facetrack2.jpg)
 
-![1](/photo/hardware/facetrack3.jpg)
+![1](/facetrack3.jpg)
 
-![1](/photo/hardware/facetrack4.jpg)
+![1](/facetrack4.jpg)
 
 #### 点击右侧观看演示视频➡  [演示视频](http://facetrack.kuaiyunds.com/facetrack/test.mp4)
 
