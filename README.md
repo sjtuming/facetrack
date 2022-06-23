@@ -8,6 +8,8 @@
 
 #### 主要原理：树莓派对手机支架上的摄像头传入图像进行实时帧识别，开启多线程，优化使得5min平均负载不低于75%，平均识别帧率不低于20FPS,调用CV库进行人脸识别判断，并提供代码改进实现横竖人脸皆可识别，经过训练文件比对特定用户，后通过PID控制PCA9685模块驱动二维舵机实现云台运动。
 
+#### 项目评定：本项目入选2020-2021-2学期工程实践校级优秀项目
+
 #### 现有特性：后期加入了训练功能，可以导入使用者的自拍照进行训练，训练后该自拍神器将只会追踪训练文件中的人脸对象，强化针对性和隐私性。
 
 #### 预计更新：加入手机APP远程控制功能，可在手机上实时查看摄像头画面，并在手机上提交和使用使用者个人头像图片作为训练和判断文件。
@@ -61,7 +63,7 @@
 
 ![2](/photo/facetrack6.jpg)
 
-#### 点击右侧观看演示视频➡  [演示视频](http://facetrack.kuaiyunds.com/facetrack/test.mp4)
+#### 观看演示视频➡  [演示视频](http://facetrack.kuaiyunds.com/facetrack/test.mp4)
 
-#### 代码及项目地址➡[Facetrack](https://github.com/sjtuming/facetrack)
+#### 代码项目地址➡[Facetrack](https://github.com/sjtuming/facetrack)
 
